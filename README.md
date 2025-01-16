@@ -11,15 +11,15 @@ I'm an IT engineering student from Finland with a special passion for code. I've
 - **Hobbies**: When I'm not coding, I enjoy playing guitar, making music, digital drawing, playing basketball, and escaping my monitor's light by diving into the immersive world of Dungeons & Dragons.
 
 ---
-### 🎨 :
-- **Languages**: C#, C++, Python, Java, JavaScript, HTML/CSS, SQL, and PHP
-- **Game Engines**: Unity (6 years of experience) and Godot (new but exciting!)
-- **Tools**: Git, GitHub, Visual Studio (Code), Aseprite, Krita, Blender
-
----
 ### 🎮 Check Out My Games:
 All my released games are available for free on my [itch.io page!](https://iamaaven.itch.io/) 🎉
 Feel free to explore and download any of them — I'd love to hear your feedback and thoughts.
+
+---
+### 🎨 My toolbox:
+- **Languages**: C#, C++, Python, Java, JavaScript, HTML/CSS, SQL, and PHP
+- **Game Engines**: Unity (6 years of experience) and Godot (new but exciting!)
+- **Tools**: Git, GitHub, Visual Studio (Code), Aseprite, Krita, Blender
 
 ---
 ### 🌟 Fun Facts:
