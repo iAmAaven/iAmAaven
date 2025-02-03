@@ -30,10 +30,6 @@ Feel free to explore and download any of them — I'd love to hear your feedback
 ![](https://github-readme-stats.vercel.app/api?username=iamaaven&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=iamaaven&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=iamaaven&theme=github_dark&hide_border=true)<br/>
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
 ---
 [![](https://visitcount.itsvg.in/api?id=iamaaven&icon=0&color=13)](https://visitcount.itsvg.in)
 
