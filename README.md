@@ -1,6 +1,6 @@
 # Hello, my name is Aapo Harjunpää! 👋
 
-I'm an IT engineering student from Finland with a special passion for code. I've been programming since 2019, specializing in video game development. **I'm currently looking for a 2-month IT internship for the summer of 2025 as part of my studies at Tampere University of Applied Sciences (TAMK).**  
+I'm an IT engineering student from Finland with a special passion for code. I've been programming since 2019, specializing in video game development. **I'm currently looking for (at least) a 2-month IT internship for the summer of 2025 as part of my studies at Tampere University of Applied Sciences (TAMK).**  
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aapo-harjunpää) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:a.harjunpaa02@gmail.com) 
 
