@@ -10,7 +10,6 @@ I've been programming **since 2019**, specializing in video game development.
 - My goal is to someday publish a game with a story so great that it leaves a lasting (positive) impact on players.
 - Something I enjoy as much as programming is **music**. I've played the guitar for 9 years and listen to all kinds of genres, though most often heavy metal.
 - Occasionally I escape the light of my monitor to cast spells in Dungeons & Dragons with my friends.
-- You can (very rarely) catch me streaming video game development on [Twitch](https://www.twitch.tv/iamaaven)!
 
 
 ### Check Out My Games
