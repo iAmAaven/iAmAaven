@@ -5,7 +5,7 @@ I've been programming **since 2019**, specializing in video game development.
 
 ---
 ### About me
-- I’m a huge fan of **indie games**, mostly because I'm an indie developer myself.
+- I’m a huge fan of **indie games** and an indie developer myself.
 - My first experience with programming was with Python in 8th grade. After a three-year break from writing code, I got into making video games with Unity.
 - My goal is to someday publish a game with a story so great that it leaves a lasting (positive) impact on players.
 - Something I enjoy as much as programming is **music**. I've played the guitar for 9 years and listen to all kinds of genres, though most often heavy metal.
