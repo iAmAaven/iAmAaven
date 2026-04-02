@@ -6,7 +6,8 @@ I've been programming **since 2019**.
 ---
 ### About me
 - I’m a huge fan of **indie games** and an indie developer myself.
-- My first experience with programming was with Python in 8th grade. In 2019, I got into making video games with Unity and haven't stopped since.
+- My first experience with programming was with Python in 8th grade.
+- In 2019, I got into making video games with Unity and haven't stopped since.
 - My dream is to someday publish a game that leaves a positive impact on the player.
 - I also love **music**. I've played the guitar for 9 years and listen to all kinds of genres, though most often heavy metal.
 - Every week, I try to escape the light of my monitor by casting spells in Dungeons & Dragons with my friends.
