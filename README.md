@@ -1,7 +1,12 @@
 # Hello, my name is Aapo Harjunpää!
 
-I'm a 23-year-old software developer and IT engineering student from Finland.  
-I've been programming **since 2019**.  
+I'm a 23-year-old software developer and an IT engineering student from Finland.  
+I've been programming **since June of 2019**.  
+
+---
+### Right now, I am...
+- ...developing my first ever Steam release! The development began in January 2026 and I'm aiming to release it by 2028, at the latest.
+- ...pursuing my Bachelor's degree in software engineering! Expected graduation is in May of 2028.
 
 ---
 ### About me
@@ -10,9 +15,9 @@ I've been programming **since 2019**.
 - In 2019, I got into making video games with Unity and haven't stopped since.
 - My dream is to someday publish a game that leaves a positive impact on the player.
 - I love **music**. I've played the guitar for 9 years and listen to all kinds of genres, though most often heavy metal.
-- Every week, I try to escape the light of my monitor by casting spells in Dungeons & Dragons with my friends.
+- Every week, I escape the light of my monitor to play Dungeons & Dragons with my friends.
 
-
+---
 ### Check Out My Games
 All my released games are available for free on my [itch.io page!](https://iamaaven.itch.io/)
 
