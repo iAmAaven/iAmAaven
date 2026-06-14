@@ -1,6 +1,6 @@
 # Hello, my name is Aapo Harjunpää!
 
-I'm a 23-year-old software developer and an IT engineering student from Finland.  
+I'm a 24-year-old software developer and an IT engineering student from Finland.  
 I've been programming **since June of 2019**.  
 
 ---
