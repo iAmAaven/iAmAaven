@@ -14,7 +14,7 @@ I've been programming **since June of 2019**.
 - My first experience with programming was with Python in 8th grade.
 - In 2019, I got into making video games with Unity and haven't stopped since.
 - My dream is to someday publish a game that leaves a positive impact on the player.
-- I love **music** and listen to all kinds of genres, though most often heavy metal. I also play the guitar and sometimes develop music (usually for my games).
+- I love **music** and listen to all kinds of genres, though most often heavy metal. I also play the guitar and sometimes produce music (usually for my games).
 - Every week, I escape the light of my monitor to play Dungeons & Dragons with my friends.
 
 ---
