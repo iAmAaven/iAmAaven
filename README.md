@@ -5,7 +5,7 @@ I've been programming **since June of 2019**.
 
 ---
 ### Right now, I am...
-- ...developing my first ever Steam release! Release is expected during 2028, at the latest.
+- ...developing my first ever Steam release! Expected time of release is during 2028, at the latest.
 - ...pursuing my Bachelor's degree in software engineering! Expected graduation is in May of 2028.
 
 ---
