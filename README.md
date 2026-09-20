@@ -22,6 +22,4 @@ I've been programming **since June of 2019**.
 All my released games are available for free on my [itch.io page!](https://iamaaven.itch.io/)
 
 ---
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aapo-harjunpää) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:a.harjunpaa02@gmail.com)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=iamaaven&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)<br/>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aapo-harjunpää) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:a.harjunpaa02@gmail.com) ![](https://komarev.com/ghpvc/?username=iAmAaven&color=grey&label=Views)
